@@ -1,7 +1,10 @@
 # Trabalhando com Componentes em React (Aprendendo Props)
 
+<<<<<<< HEAD
 Neste curso, adquiri o entendimento que me faltava acerca do uso de props e Hooks no ReactJs, podendo agora dar um passo adiante no domínio dessa biblioteca incrível para criação de interfaces de usuário
 
+=======
+>>>>>>> 0a84e0cba9d17d99a919f5b6eed79d5ef61270bf
 ![alt text](src/assets/img/trabalhandoComponentesReactpng.png)
 
 # Getting Started with Create React App

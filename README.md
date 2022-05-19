@@ -1,3 +1,7 @@
+# Trabalhando com Componentes em React (Aprendendo Props)
+
+<img src="D:\Cursos\DIO\IntroReactJs\React-Intro-Components\app-card\src\assets\img\trabalhandoComponentesReactpng.png"/>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

@@ -1,6 +1,8 @@
 # Trabalhando com Componentes em React (Aprendendo Props)
 
-<img src="D:\Cursos\DIO\IntroReactJs\React-Intro-Components\app-card\src\assets\img\trabalhandoComponentesReactpng.png"/>
+Neste curso, adquiri o entendimento que me faltava acerca do uso de props e Hooks no ReactJs, podendo agora dar um passo adiante no domínio dessa biblioteca incrível para criação de interfaces de usuário
+
+![alt text](src/assets/img/trabalhandoComponentesReactpng.png)
 
 # Getting Started with Create React App
 

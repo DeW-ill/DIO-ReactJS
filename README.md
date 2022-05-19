@@ -1,6 +1,6 @@
 # Trabalhando com Componentes em React (Aprendendo Props)
 
-<img src="D:\Cursos\DIO\IntroReactJs\React-Intro-Components\app-card\src\assets\img\trabalhandoComponentesReactpng.png"/>
+![]<img src="D:\Cursos\DIO\IntroReactJs\React-Intro-Components\app-card\src\assets\img\trabalhandoComponentesReactpng.png"/>
 
 # Getting Started with Create React App
 
